@@ -266,8 +266,8 @@ var Icon$b = function (props) {
 
 var Icon$c = function (props) {
     var theme = styled.useTheme();
-    var primaryColor = theme.isDark ? "#3C3742" : "#e9eaeb";
-    var secondaryColor = theme.isDark ? "#666171" : "#bdc2c4";
+    var primaryColor = theme.isDark ? "#3C3742" : "#32a852";
+    var secondaryColor = theme.isDark ? "#666171" : "#32a852";
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 72 72" }, props),
         React__default['default'].createElement("path", { d: "M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z", fill: primaryColor }),
         React__default['default'].createElement("mask", { id: "mask0", "mask-type": "alpha", maskUnits: "userSpaceOnUse", x: "3", y: "3", width: "66", height: "66" },
