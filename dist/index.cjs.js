@@ -2864,11 +2864,11 @@ var ResetCSS = styled.createGlobalStyle(templateObject_1$K || (templateObject_1$
 var templateObject_1$K;
 
 var baseColors = {
-    failure: "#ED4B9E",
-    primary: "#ED4B9E",
-    primaryBright: "#ED4B9E",
+    failure: "#f50511",
+    primary: "#f50511",
+    primaryBright: "#f50511",
     primaryDark: "#aa8929",
-    secondary: "#ED4B9E",
+    secondary: "#f50511",
     success: "#31D0AA",
     warning: "#FFB237",
 };
